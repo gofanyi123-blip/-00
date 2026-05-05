@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1a2b1e; /* 深泥土/森林綠色背景 */
+}
+
+iframe {
+  border: none;
+  box-shadow: -5px 0px 15px rgba(0, 0, 0, 0.5);
+}
